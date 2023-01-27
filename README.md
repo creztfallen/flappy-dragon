@@ -1,5 +1,5 @@
-# flappy-dragon
-A flappy bird clone project to help me achieve good understanding on rust programming language.
+# Flappy-Dragon
+A flappy bird clone project to help me achieve good understanding on rust programming language. (Reference: Hands on Rust by Herbert Wolverson)
 
 ## Have Fun
 If you plan to have fun with this, follow the steps below:
