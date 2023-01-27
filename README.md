@@ -9,4 +9,6 @@ If you plan to have fun with this, follow the steps below:
 <br>
 <br>
 Then, you just need to navigate into the repository on your machine and run:
+<br>
+<br>
 ```cargo run```
