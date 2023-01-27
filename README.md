@@ -8,7 +8,7 @@ If you plan to have fun with this, follow the steps below:
 ```First, install rust by following these steps: https://www.rust-lang.org/tools/install```
 <br>
 <br>
-Then, you just need to navigate into the repository on your machine and run:
+Then, you just need to navigate into the repository on your machine and run the bellow command on a terminal of your preference:
 <br>
 <br>
 ```cargo run```
